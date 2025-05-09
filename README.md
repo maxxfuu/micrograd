@@ -1,2 +1,2 @@
 # micrograd
-Building a tiny autograd engine (Auto Gradient) based on Andrej Karpathy's work. 
+A new beginning. May 9th 12:53 pm
